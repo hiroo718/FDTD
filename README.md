@@ -44,7 +44,7 @@ matplotlib
 ## 使い方 / Usage
 
 ```bash
-python fdtd.py
+python fdtdf.py
 ```
 
 ---
