@@ -70,9 +70,8 @@ The sound source is placed at `P[20,15]` (near the center of the grid), excited 
 
 ## 参考 / References
 
-- Yee, K. S. (1966). Numerical solution of initial boundary value problems involving Maxwell's equations in isotropic media. *IEEE Transactions on Antennas and Propagation*.
-- Taflove, A. & Hagness, S. C. (2005). *Computational Electrodynamics: The Finite-Difference Time-Domain Method*.
-
+- 日本建築学会編，はじめての音響数値シミュレーションプログラミングガイド,　コロナ社,　(2017)
+- 橋本修, 阿部琢美, FDTD時間領域差分法入門, 森北出版, (2010)
 ---
 
 ## 作者 / Author
